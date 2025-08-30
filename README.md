@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.tenor.com/3Mc4IqoPAxAAAAAM/anime-dance.gif"  />
+
+###
+
 <p align="left">My name is Om Sonawane and I'm a Engineering Student from India</p>
 
 ###
@@ -15,10 +19,6 @@
 ###
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Bash<br>🎯 Goals: Run my own broswer in my own OS<br>🎲 Fun fact: I like spider man ,A fellow web developer</p>
-
-###
-
-<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://media.tenor.com/3Mc4IqoPAxAAAAAM/anime-dance.gif)"  />
 
 ###
 
