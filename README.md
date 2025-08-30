@@ -1,11 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<img align="right" height="200" src="https://media.tenor.com/3Mc4IqoPAxAAAAAM/anime-dance.gif"  />
-
-###
-
 <p align="left">My name is Om Sonawane and I'm a Engineering Student from India</p>
 
 ###
