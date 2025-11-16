@@ -64,6 +64,9 @@
   <a href="https://www.hackerrank.com/profile/omsoanwane124421" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+  <a href="https://monkeytype.com/profile/Moon_cat" target="_blank">
+    <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/svg/arch.svg" width="52" height="40" alt="monkeytype logo"  />
+  </a>
 </div>
 
 ###
