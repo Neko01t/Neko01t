@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+
 <p align="left">My name is Om Sonawane and I'm a Engineering Student from India</p>
 
 ###
@@ -9,8 +10,7 @@
 
 ###
 
-<img align="left" height="90" src="https://camo.githubusercontent.com/eb49b01167d81d57724b57e45251c6558b1bfda447f0e299da2979e2dbf667db/68747470733a2f2f63646e332e656d6f6a692e67672f656d6f6a69732f313236312d6861636b6572626f6e676f6361742e676966"  />
-
+<img align="left" height="90" src=".assets/hackat.gif"  />
 ###
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Bash<br>🎯 Goals: Run my own broswer in my own OS<br>🎲 Fun fact: I like spider man ,A fellow web developer</p>
