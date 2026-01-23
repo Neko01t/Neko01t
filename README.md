@@ -10,7 +10,8 @@
 
 ###
 
-<img align="left" height="90" src=".assets/hackat.gif"  />
+<img align="left" height="90" src="./assets/hackat.gif"  />
+
 ###
 
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Bash<br>🎯 Goals: Run my own broswer in my own OS<br>🎲 Fun fact: I like spider man ,A fellow web developer</p>
