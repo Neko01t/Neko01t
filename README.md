@@ -1,8 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![My Animation](./assets/eclipse.svg)
 
 ###
 
-<p align="left">My name is Om Sonawane and I'm a Engineering Student from India</p>
+<div style="text-align: center;">
+  <h2>Hi, I'm Om Sonawane 👋</h2>
+  <p style="color: gray; font-size: 18px;">Engineering Student & Aspiring Software Developer</p>
+</div>
 
 ###
 
