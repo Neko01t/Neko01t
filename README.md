@@ -80,8 +80,8 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Neko01t&label=Views&base=18&abbreviated=true)
-
 ![Wave](./assets/waves.svg)
+
+![](https://komarev.com/ghpvc/?username=Neko01t&label=Views&base=18&abbreviated=true)
 
 ###
