@@ -9,15 +9,21 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
-###
+<div align="center">
+  <img src="./assets/hackat.gif" width="100" />
+</div>
 
-<img align="left" height="90" src="./assets/hackat.gif"  />
-
-###
-
-<p align="left"><b>✨ Experience:</b> Creating bugs since 2022<br>📚 <b>Currently Learning:</b> Bash scripting & automation<br>🎯 <b>The Dream:</b> Running my own browser inside my own custom OS<br>🎲 <b>Fun Fact:</b> I love Spider-Man (just a couple of web developers doing our best)</p>
+```json
+{
+  "developer": "Om Sonawane",
+  "experience": "Creating bugs since 2022 ✨",
+  "currently_learning": "Bash scripting & automation 📚",
+  "the_dream": "Running my own browser inside my custom OS 🎯",
+  "fun_fact": "I love Spider-Man (just two web devs doing our best) 🕸️"
+}
+```
 
 ###
 
@@ -74,7 +80,7 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?Neko01t&lable=Views&base=18&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Neko01t&label=Views&base=18&abbreviated=true)
 
 ![Wave](./assets/waves.svg)
 
