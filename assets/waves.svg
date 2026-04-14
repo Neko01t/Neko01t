@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="100%" height="100%" preserveAspectRatio="none" style="display: block;">
+  
+
+  <defs>
+    <path id="wave" d="M 0,100 Q 125,150 250,100 T 500,100 T 750,100 T 1000,100 T 1250,100 T 1500,100 T 1750,100 T 2000,100 V 300 H 0 Z" />
+  </defs>
+
+  <g transform="translate(0, -10)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1000,0" dur="14s" repeatCount="indefinite" />
+      <use href="#wave" fill="#102440" opacity="0.6"/>
+    </g>
+  </g>
+
+  <g transform="translate(0, 10)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1000,0" dur="10s" repeatCount="indefinite" />
+      <use href="#wave" fill="#143054" opacity="0.8"/>
+    </g>
+  </g>
+
+  <g transform="translate(0, 30)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1000,0" dur="7s" repeatCount="indefinite" />
+      <use href="#wave" fill="#183c6b" opacity="0.9"/>
+    </g>
+  </g>
+
+  <g transform="translate(0, 50)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-1000,0" dur="4s" repeatCount="indefinite" />
+      <use href="#wave" fill="#1c4b82" opacity="1"/>
+    </g>
+  </g>
+</svg>

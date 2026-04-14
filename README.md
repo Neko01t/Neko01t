@@ -2,7 +2,7 @@
 
 ###
 
-<div style="text-align: center;">
+<div align="center">
   <h2>Hi, I'm Om Sonawane 👋</h2>
   <p style="color: gray; font-size: 18px;">Engineering Student & Aspiring Software Developer</p>
 </div>
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Bash<br>🎯 Goals: Run my own broswer in my own OS<br>🎲 Fun fact: I like spider man ,A fellow web developer</p>
+<p align="left"><b>✨ Experience:</b> Creating bugs since 2022<br>📚 <b>Currently Learning:</b> Bash scripting & automation<br>🎯 <b>The Dream:</b> Running my own browser inside my own custom OS<br>🎲 <b>Fun Fact:</b> I love Spider-Man (just a couple of web developers doing our best)</p>
 
 ###
 
@@ -47,9 +47,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neko01t&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -72,5 +78,9 @@
     <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/svg/arch.svg" width="52" height="40" alt="monkeytype logo"  />
   </a>
 </div>
+
+![](https://komarev.com/ghpvc/?Neko01t&lable=Views&base=18&abbreviated=true)
+
+![Wave](./assets/waves.svg)
 
 ###
