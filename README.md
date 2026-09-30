@@ -18,10 +18,10 @@
 ```json
 {
   "developer": "Om Sonawane",
-  "experience": "Creating bugs since 2022 ✨",
-  "currently_learning": "Bash scripting & automation 📚",
-  "the_dream": "Running my own browser inside my custom OS 🎯",
-  "fun_fact": "I love Spider-Man (just two web devs doing our best) 🕸️"
+  "experience": "Creating bugs since 2022 [-]",
+  "currently_learning": "Low-level Linux systems & Rust daemons > ",
+  "the_dream": "Writing a window manager in C++ and never touching a mouse again ",
+  "fun_fact": "I love Spider-Man (just two web devs doing our best) "
 }
 ```
 
